@@ -132,7 +132,7 @@ def take_room2_box():
         
 ###ROOM 3
 def room_3_description():
-  print "\nYou find yourself standing in the center of a room with many leather-bound books."
+  	print "\nYou find yourself standing in the center of a room with many leather-bound books."
 	print "This room smells of rich mahogany. There is one door in the east wall."
 	print "On a table in the corner sits a box with a bold label that says \"Do NOT open.\" The NOT is underlined."
 	room_3_actions()
